@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Client:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Client_jar</output-path>
+    <root id="archive" name="Client.jar">
+      <element id="module-output" name="Client" />
+      <element id="module-output" name="Entities" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Develop Environment/Repository/com/alibaba/fastjson/1.2.80/fastjson-1.2.80.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Develop Environment/Repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Develop Environment/Repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Develop Environment/Repository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Develop Environment/Repository/org/apache/httpcomponents/httpcore/4.4.15/httpcore-4.4.15.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
